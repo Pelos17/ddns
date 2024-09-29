@@ -1,0 +1,2 @@
+Logeo.
+Ping para ip publica.
