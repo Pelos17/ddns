@@ -70,6 +70,13 @@ modifycommand = {
 "ttl": "600"
 }
 
+def checkkeys():
+    if secretapikey = "" and apikey = "":
+        logging("No keys seted up")
+        return 1
+    else:
+        return 0
+
 #Post agains the api of Porkbun only if the IP is not the same.
 def pushchange():
     if compareip() == 1:
