@@ -28,8 +28,8 @@ currentipendpoint = "https://api.porkbun.com/api/json/v3/dns/retrieveByNameType/
 uricurrentip = currentipendpoint+modifyendpoint
 
 #If you regenerate the api keys you need to change this.
-secretapikey = "sk1_1ca1ee10a7168db48014783471c2dbe7012b380a2d7382f280420b7f0a7616fa"
-apikey = "pk1_fffc32ec09dce83cc6778b716bbd66d3a5d915d4a5f2e1a9ce75ab6f0eb97ef5"
+secretapikey = ""
+apikey = ""
 
 #Json pingcommand to get public IP
 keycommand = {
