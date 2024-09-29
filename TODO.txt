@@ -1,2 +1,2 @@
-Logeo.
-Ping para ip publica.
+loopear
+cronear
