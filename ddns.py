@@ -71,7 +71,7 @@ modifycommand = {
 }
 
 def checkkeys():
-    if secretapikey = "" and apikey = "":
+    if secretapikey == "" and apikey == "":
         logging("No keys seted up")
         return 1
     else:
